@@ -1,7 +1,7 @@
 public class Palindrome {
 
     public static void main(String[] args) {
-
+        System.out.println("For commit");
         String s = "Madam, I'm Adam!";
         if (Palindrome.isPalindrome(s)) {
             System.out.println("This is Palindrome");
